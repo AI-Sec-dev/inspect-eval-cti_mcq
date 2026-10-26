@@ -1,0 +1,10 @@
+title: "CTI-MCQ"
+description: |
+    Evaluates the general understanding of LLMs of key CTI concepts through knowledge-based benchmarking.
+group: Knowledge
+contributors:
+  - AI-Sec-dev
+version: "1-A"
+tasks:
+  - name: cti-mcq
+    dataset_samples: 2,500
