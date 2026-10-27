@@ -121,6 +121,7 @@ classifiers = [
 ]
 dependencies = [
     "inspect_ai>=0.3.217",
+    "openai>=3.39.0",
 ]
 
 [project.urls]
